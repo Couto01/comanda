@@ -1,0 +1,22 @@
+{
+    "produtos":[
+    {
+      "id": 1,
+      "nome": "Snickers",
+      "imagePath": "https://example.com/snickers.jpg",
+      "preco": 1.99
+    },
+    {
+      "id": 2,
+      "nome": "M&M's",
+      "imagePath": "https://example.com/mms.jpg",
+      "preco": 2.99
+    },
+    {
+      "id": 3,
+      "nome": "Reese's Pieces",
+      "imagePath": "https://example.com/reesespieces.jpg",
+      "preco": 3.99
+    }
+  ]
+  }
