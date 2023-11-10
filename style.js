@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#FCFBFF',
+        backgroundColor: '#EB8A90',
         alignItems: 'center',
         justifyContent: 'center',
     },
@@ -15,10 +15,15 @@ export const styles = StyleSheet.create({
         padding: 20,
     },
     title: {
+        color:'#2596be', 
         fontSize: 24,
         fontWeight: 'bold',
     },
+    Text:{
+        color: '#9A2D4A',
+    },
     input: {
+        color: '#6A0D2A',
         padding: 8,
         borderColor: 'gray',
         borderWidth: 1,
@@ -26,15 +31,19 @@ export const styles = StyleSheet.create({
         borderRadius: 4
     },
     button: {
-        backgroundColor: '#121A2C',
-        color: '#FFBA26',
+        backgroundColor: '#2596be',
+        color: '#6A0D2A',
         padding: 8,
         paddingHorizontal: 48,
         borderRadius: 4,
         marginTop: 20,
+        fontSize: 16,
+        fontWeight: 'bold'
     },
     buttonText: {
-        color: '#FFBA26',
+        color: '#6A0D2A',
+        fontSize: 15,
+        fontWeight: 'semi-bold',
     },
     header: {
         width: '100%',

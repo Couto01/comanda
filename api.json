@@ -17,6 +17,32 @@
       "nome": "Reese's Pieces",
       "imagePath": "https://example.com/reesespieces.jpg",
       "preco": 3.99
+    },
+    {
+      "id": "4",
+      "nome": "Candy Canes",
+      "imagepath": "http://example.com/mushroom.jpg",
+      "preco": 9.99
+    },
+    {
+      "id": "5",
+      "nome": "Sour Patch Kids",
+      "imagepath": "http://example.com/bbq.jpg",
+      "preco": 7.99
+    }
+  ],
+  "usuarios": [
+    { 
+      "id": "1",
+      "nome": "Bárbara",
+      "email": "babi@fiap.com.br",
+      "senha": "1234"
+    },
+    { 
+      "id": "2",
+      "nome": "João Carlos",
+      "email": "joao@fiap.com.br",
+      "senha": "4321"
     }
   ]
-  }
+}
